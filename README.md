@@ -22,10 +22,10 @@ The data is persisted using a Firebase Realtime Database
 # Use the application
  1. Access the application [here](https://call-tracker-esra.herokuapp.com/).
  2. Sign In
- 3. Enter reason or select a predefined one
+ 3. Enter reason or select a predefined one  
  ![register reason screenshot](./public/register_call.PNG)
  4. Enter a team name or select a predefined one
- 5. Check results: click on the "Results" menu button
+ 5. Check results: click on the "Results" menu button  
 ![results screenshot](./public/results.PNG)
 
 # Customization
