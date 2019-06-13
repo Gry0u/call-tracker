@@ -29,7 +29,7 @@ The data is persisted using a Firebase Realtime Database
 ![results screenshot](./public/results.PNG)
 
 # Customization
-To customize the predefined dropdown list, edit [`dropdowns.json`](./src/dropdown.json)
+To customize the predefined dropdown lists, edit [`dropdowns.json`](./src/dropdown.json)
 
 # Resources
 - [create-react-app](https://github.com/facebook/create-react-app): Create React apps with no build configuration
