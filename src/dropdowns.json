@@ -1,0 +1,19 @@
+{
+  "reasons": {
+    "name": "reasons",
+    "list": [
+      "Reason 1",
+      "Reason 2",
+      "Reason 3",
+      "Reason 4"
+      ]
+  },
+  "teams": {
+    "name": "teams",
+    "list": [
+      "Team 1",
+      "Team 2",
+      "Team 3"
+      ]
+  }
+}
